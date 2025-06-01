@@ -6,3 +6,5 @@
 ## Chapter 4  :- Encapsulation in PHP
 ## Chapter 5  :- Polymorphism in PHP
 ## Chapter 6  :- Destructure in PHP
+## Chapter 7  :- Typed Properties in PHP
+## Chapter 7  :- Read only Properties in PHP
