@@ -7,6 +7,16 @@
 
 
 ## Chapter 2  :- Inheritance in PHP
+* Inheritance allows a class to reuse the code from another class without duplicating it.
+
+* In inheritance, you have a parent class with properties and methods, and a child class can use the code from the parent class.
+
+* Inheritance allows you to write the code in the parent class and use it in both parent and child classes.
+
+* The parent class is also called a base class or super class. And the child class is also known as a derived class or a subclass.
+
+* To define a class inherits from another class, you use the extends keyword.
+
 ## Chapter 3  :- Abstraction in PHP
 ## Chapter 4  :- Encapsulation in PHP
 ## Chapter 5  :- Polymorphism in PHP
